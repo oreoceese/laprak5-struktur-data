@@ -665,5 +665,4 @@ Program membentuk list yang sama, lalu memanggil totalInfo(L). Fungsi ini menelu
 Berdasarkan praktikum yang telah dilakukan, dapat disimpulkan bahwa singly linked list merupakan struktur data dinamis yang tersusun dari node-node yang saling terhubung melalui pointer `next`, sehingga ukurannya dapat berubah saat program berjalan. Pemisahan program menjadi file header, implementasi, dan program utama melalui konsep ADT membuat kode lebih terorganisir dan mudah dikembangkan. Operasi penelusuran pada linked list, seperti pencarian elemen dengan `findElm()` dan penjumlahan seluruh info dengan `totalInfo()`, dilakukan dengan menggeser pointer bantu dari node pertama sampai `Nil`. Melalui latihan guided dan unguided, mahasiswa dilatih membangun ADT singly linked list serta menerapkan operasi insert, pencarian, dan penjumlahan pada list.
 
 ## Referensi
-[1] Triase. (2020). Diktat Edisi Revisi : STRUKTUR DATA. Medan: UNIVERSTAS ISLAM NEGERI SUMATERA UTARA MEDAN.
-<br>[2] Indahyanti, Uce., Rahmawati, Yunianita. (2020). *Buku Ajar Algoritma dan Pemrograman dalam Bahasa C++*. Sidoarjo: UMSIDA Press. Diakses melalui https://doi.org/10.21070/2020/978-623-6833-67-4.
+Universitas Negeri Malang. (2010). Modul praktikum algoritma dan struktur data: Bab 6—Linked List. https://elektro.um.ac.id/wp-content/uploads/2016/04/Struktur-Data-Modul-Praktikum-6-Single-Linked-List.pdf
